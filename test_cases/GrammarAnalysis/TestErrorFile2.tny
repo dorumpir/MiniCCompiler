@@ -1,0 +1,3 @@
+(defun err_exmp () 
+	(format t "I'm a error example!") )
+

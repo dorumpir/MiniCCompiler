@@ -1,0 +1,2 @@
+A mini C compiler built by c language, flex and yacc.
+Here is a manual shows how it looks like: [[link](how_it_works.pdf)] (no English support, but most of the contents are pictures so no worry to get lost)
